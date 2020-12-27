@@ -1,1 +1,2 @@
 # FilterDemo
+Filter path: /search
